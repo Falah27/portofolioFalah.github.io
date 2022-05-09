@@ -100,7 +100,7 @@ i{
 }
 #cv .btn{
   width: 150px;
-  margin: 0 10px;
+  margin: 10px 10px;
 }
 @media (max-width : 600px){
   #contact .container-fluid{
