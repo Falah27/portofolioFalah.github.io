@@ -113,4 +113,13 @@ i{
     margin-top: -10px;
     margin-bottom: -10px;
   }
+  #cv .card{
+    width: 50%;
+    border: transparent;
+    justify-content: center;
+    align-items: center;
+  }
+}
+#project .card-text{
+  height: 120px;
 }
