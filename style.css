@@ -123,3 +123,7 @@ i{
 #project .card-text{
   height: 120px;
 }
+#project .row{
+  justify-content: center;
+  align-items: center;
+}
